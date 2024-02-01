@@ -1,7 +1,7 @@
 # Author: Michelle Frugia
 # GitHub username: frugiam
 # Date: 01/31/2024
-# Description: Project 4b
+# Description: Project 4c
 
 def hailstone(n):
     count = 0  # number of steps to 0
